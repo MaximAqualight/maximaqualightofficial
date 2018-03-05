@@ -1,0 +1,1638 @@
+{
+  "settings": {
+    "name": "Maxim Aqualight",
+    "currentPage": "maxim-aqualight.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "versionFirst": "4.6.3",
+    "uniqCompNum": 59,
+    "versionPublish": "4.6.3",
+    "path": "@PROJECT_PATH@",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": "",
+    "siteUrl": "undefined"
+  },
+  "pages": {
+    "maxim-aqualight.html": {
+      "settings": {
+        "main": true,
+        "title": "Maxim Aqualight",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"maxim-aqualight.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about-me.html\">AQUALIGHT RECORDINGS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contacts.html\">CONTACTS</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/maxim-aqualight-brendirovanie-new-2017-318x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "",
+              "link": "maxim-aqualight.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/image5876534-2000x1228.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<br><br><br>ABOUT ME<br><br>",
+          "text": "<br>Sound Producer from Simferopol<br>Participant of DJ Battle in 2012<br>Since 2009, he began to create music<br>in electronic dance direction<br>His tracks sounded on the Italian label Gysnoize Recordings<br>on The Russian label Prospection Records<br>and Mixupload Recordings<br>he also has his own label<br>Aqualight Recordings<br>Just his work you can hear on the radio KISS FM.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            },
+            "H1": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/bP55DnUK80M?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-5"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/j8MtDYiH20g?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-6"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/MdLlkNjUyNQ?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-7"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/ZR5KgEofSRo?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-8"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/CmMR2odM81A?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-9"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/dsyzVEVb3gQ?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-a"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/JoRfrnnAf5A?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-f"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/eupfeMGZwg4?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-c"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/MWAjzp2CR0o?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-k"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/BfDToNxRNCY?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-b"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/HestcKt5jHI?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-v"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/oP2OIMRxnQk?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-d"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/BaTxx9DxO04?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-e"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/UDimWpYk5eE?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-g"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/9S87DM7fF2s?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-h"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/MYxBzNXNmKY?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-i"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/31elIMccork?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-j"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/-gDFRr2RytQ?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-l"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/Q6wLU4MKuLc?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-o"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/DxCjM_CETSM?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-m"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/FxAbRc_Piy8?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-n"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/82AleY4gSuY?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-p"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/MMFHwYwsqBE?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-q"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/8MVsMew4vlE?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-r"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/50y6pKdqAK4?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-s"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/1EAEkgWYgs0?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-t"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/OfUq79yz-JE?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-u"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/qCSPEMQqt_g?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-x"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/KuHKxrVHZfM?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-w"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/Maxim_Aqualight\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-android\" title=\"Google Play\" target=\"_blank\" href=\"https://play.google.com/store/apps/details?id=com.mobirise.mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-android\"></i></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-10",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 Maxim Aqualight. <a class=\"mbr-footer__link text-white\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-white\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-12",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "contacts.html": {
+      "settings": {
+        "meta_descr": "",
+        "title": "Contacts",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"maxim-aqualight.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about-me.html\">AQUALIGHT RECORDINGS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contacts.html\">CONTACTS</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/maxim-aqualight-brendirovanie-new-2017-318x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "",
+              "link": "maxim-aqualight.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/image5876534-2000x1228.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<br><br><br>ABOUT ME<br><br>",
+          "text": "<br>Sound Producer from Simferopol<br>Participant of DJ Battle in 2012<br>Since 2009, he began to create music<br>in electronic dance direction<br>His tracks sounded on the Italian label Gysnoize Recordings<br>on The Russian label Prospection Records<br>and Mixupload Recordings<br>he also has his own label<br>Aqualight Recordings<br>Just his work you can hear on the radio KISS FM.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            },
+            "H1": {
+              "text-align": "right"
+            }
+          },
+          "_anchor": "header1-1j"
+        },
+        {
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "postToLoad": "10",
+            "facebook": "",
+            "twitter": "",
+            "google": "+MaximAqualight",
+            "youtube": "",
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
+          },
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-1m"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">SEND MESSAGE<br></a>",
+          "text1": "<strong>ADDRESS</strong><br>15 Zarechnaya, Russian Federation,<br>Simferopol, 295494<br><br>\n<strong>CONTACTS</strong><br>\nEmail: <a href=\"mailto:maximaqualightofficial@gmail.com\" class=\"text-gray\">maxim.aqualight.official@info</a><br>\nPhone: <a href=\"tel:+79189000009\" class=\"text-gray\">+79189000009</a>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://itunes.apple.com/us/artist/maxim-aqualight/id1062745730\" target=\"_blank\" class=\"text-danger\">iTunes</a></li><li><a href=\"http://www.beatport.com/artist/maxim-aqualight/522058\" target=\"_blank\" class=\"text-success\">Beatport</a><br><a href=\"https://vk.com/maxim.aqualight.official.page\" target=\"_blank\" class=\"text-info\">Vkontakte</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "aqualightdj@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-1i",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            },
+            "UL": {
+              "color": "#27aae0"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 Maxim Aqualight. <a class=\"mbr-footer__link text-white\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-white\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-12",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "aqualight-recordings.html": {
+      "settings": {
+        "meta_descr": "",
+        "title": "Aqualight Recordings",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"maxim-aqualight.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about-me.html\">AQUALIGHT RECORDINGS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contacts.html\">CONTACTS</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/maxim-aqualight-brendirovanie-new-2017-318x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "",
+              "link": "maxim-aqualight.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-orange-2017-aqualightrecordings001-2000x2000.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "FULL-SCREEN HEADER",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-13"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/9S87DM7fF2s?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-17"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/UDimWpYk5eE?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-16"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/BaTxx9DxO04?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-15"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/oP2OIMRxnQk?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-14"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/31elIMccork?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-19"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/MYxBzNXNmKY?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-18"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/-gDFRr2RytQ?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-1c"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/50y6pKdqAK4?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-1e"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/82AleY4gSuY?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-1d"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/1EAEkgWYgs0?list=PLmVF1iJEUczd0CHTwmrBLI5gVFcYfxu1X",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-1g"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/Maxim_Aqualight\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+MaximAqualight\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCr3K_pgqPtnc4R-pMDpRN9Q\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/maxim_aqualight/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-android\" title=\"Google Play\" target=\"_blank\" href=\"https://play.google.com/store/music/artist/Maxim_Aqualight\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-android\"></i></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "social-buttons2-1h"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">SEND MESSAGE<br></a>",
+          "text1": "<strong>ADDRESS</strong><br>15 Zarechnaya, Russian Federation,<br>Simferopol, 295494<br><br>\n<strong>CONTACTS</strong><br>\nEmail: <a href=\"mailto:maximaqualightofficial@gmail.com\" class=\"text-gray\">maxim.aqualight.official@info</a><br>\nPhone: <a href=\"tel:+79189000009\" class=\"text-gray\">+79189000009</a>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://itunes.apple.com/us/artist/maxim-aqualight/id1062745730\" target=\"_blank\" class=\"text-danger\">iTunes</a></li><li><a href=\"http://www.beatport.com/artist/maxim-aqualight/522058\" target=\"_blank\" class=\"text-success\">Beatport</a><br><a href=\"https://vk.com/maxim.aqualight.official.page\" target=\"_blank\" class=\"text-info\">Vkontakte</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "aqualightdj@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-1i",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            },
+            "UL": {
+              "color": "#27aae0"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 Maxim Aqualight. <a class=\"mbr-footer__link text-white\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-white\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-12",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
